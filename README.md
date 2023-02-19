@@ -1,4 +1,4 @@
-#This is a Discord Bot (Work in progress).
+#This is a Discord Bot.
 
 It had been done with JDA Discord API. (Discord Api for JAVA)
 
