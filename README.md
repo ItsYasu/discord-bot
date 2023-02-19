@@ -1,6 +1,6 @@
 #This is a Discord Bot.
 
-It had been done with JDA Discord API. (Discord Api for JAVA)
+It had been done with JDA (5.0) Discord API. (Discord Api for JAVA)
 
 It has some funny & useful commands such as:
   -Jokes - Makes some funny jokes
